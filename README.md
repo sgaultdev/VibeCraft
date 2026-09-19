@@ -1,2 +1,3 @@
 # VibeCraft
-An entirely AI-built voxel game that I (forced the AI to make) just made for fun
+A voxel game that I vibecoded for fun
+https://sgaultdev.github.io/VibeCraft/
